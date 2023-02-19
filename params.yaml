@@ -8,11 +8,12 @@ data_source:
 
 load_data:
   raw_dataset_csv: data/raw/diabetes.csv
+  version: 'v1'
 
 split_data:
   train_path: data/processed/train_diabetes.csv
   test_path: data/processed/test_diabetes.csv
-  test_size: 0.2
+  test_size: 0.25
 
 estimators:
   LogisticRegression:
@@ -23,6 +24,10 @@ estimators:
       penalty: 'elasticnet'
       l1_ratio: 0
 model_dir: saved_models
+
+mlflow:
+    remote_uri: 'http://10.159.106.142:5000'
+    
 
 reports:
   params: report/params.json

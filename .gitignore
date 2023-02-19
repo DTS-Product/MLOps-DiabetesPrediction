@@ -1,2 +1,5 @@
 /dist
 /DiabetesPredictionApp.egg-info
+/source_data/diabetes.csv
+/data/processed/test_diabetes.csv
+/data/processed/train_diabetes.csv

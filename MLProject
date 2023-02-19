@@ -1,0 +1,19 @@
+name: Diabetes-Prediction
+
+#python_env: python_env.yaml
+
+entry_points:
+  #get_data:
+    #command: "python src/get_data.py"
+
+  load_data:
+    command: "python src/load_data.py"
+
+  split_data:
+    command: "python src/split_data.py"
+
+  train_and_evaluate:
+    command: "python src/train_and_evaluate.py"
+
+  main:
+    command: "python src/main.py"

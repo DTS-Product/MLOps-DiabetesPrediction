@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/MlProjects/MLOps-DiabetesPrediction/mlruns/0/27fb5e145fa64128b94185fe079ba721/artifacts
+end_time: 1676815086438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27fb5e145fa64128b94185fe079ba721
+run_name: angry-shad-83
+run_uuid: 27fb5e145fa64128b94185fe079ba721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676815084654
+status: 4
+tags: []
+user_id: ubuntu

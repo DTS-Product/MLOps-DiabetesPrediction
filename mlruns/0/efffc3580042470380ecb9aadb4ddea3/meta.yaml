@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/MlProjects/MLOps-DiabetesPrediction/mlruns/0/efffc3580042470380ecb9aadb4ddea3/artifacts
+end_time: 1676815064085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efffc3580042470380ecb9aadb4ddea3
+run_name: intrigued-calf-923
+run_uuid: efffc3580042470380ecb9aadb4ddea3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676815062369
+status: 4
+tags: []
+user_id: ubuntu

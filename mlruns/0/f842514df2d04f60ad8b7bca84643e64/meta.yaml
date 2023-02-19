@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/MlProjects/MLOps-DiabetesPrediction/mlruns/0/f842514df2d04f60ad8b7bca84643e64/artifacts
+end_time: 1676814743834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f842514df2d04f60ad8b7bca84643e64
+run_name: gregarious-dog-94
+run_uuid: f842514df2d04f60ad8b7bca84643e64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676814742148
+status: 4
+tags: []
+user_id: ubuntu

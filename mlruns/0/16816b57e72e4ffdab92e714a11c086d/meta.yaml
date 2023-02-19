@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/MlProjects/MLOps-DiabetesPrediction/mlruns/0/16816b57e72e4ffdab92e714a11c086d/artifacts
+end_time: 1676814998187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16816b57e72e4ffdab92e714a11c086d
+run_name: learned-conch-653
+run_uuid: 16816b57e72e4ffdab92e714a11c086d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676814996463
+status: 4
+tags: []
+user_id: ubuntu

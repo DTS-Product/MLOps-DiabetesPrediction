@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/MlProjects/MLOps-DiabetesPrediction/mlruns/0/2d7a0be678b740768e45fea6826c71a3/artifacts
+end_time: 1676813535954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d7a0be678b740768e45fea6826c71a3
+run_name: overjoyed-fowl-328
+run_uuid: 2d7a0be678b740768e45fea6826c71a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676813534186
+status: 4
+tags: []
+user_id: ubuntu

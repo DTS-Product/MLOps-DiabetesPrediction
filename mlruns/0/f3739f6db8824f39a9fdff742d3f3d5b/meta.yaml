@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/MlProjects/MLOps-DiabetesPrediction/mlruns/0/f3739f6db8824f39a9fdff742d3f3d5b/artifacts
+end_time: 1676815190937
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3739f6db8824f39a9fdff742d3f3d5b
+run_name: trusting-shoat-148
+run_uuid: f3739f6db8824f39a9fdff742d3f3d5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676815189190
+status: 4
+tags: []
+user_id: ubuntu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/MlProjects/MLOps-DiabetesPrediction/mlruns/0/7fbeb0938ba64b6b89689e5a1fa83a24/artifacts
+end_time: 1676815334618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fbeb0938ba64b6b89689e5a1fa83a24
+run_name: beautiful-trout-936
+run_uuid: 7fbeb0938ba64b6b89689e5a1fa83a24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676815332876
+status: 4
+tags: []
+user_id: ubuntu

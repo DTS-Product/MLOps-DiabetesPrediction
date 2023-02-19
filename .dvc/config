@@ -1,0 +1,4 @@
+[core]
+    remote = dvc-remote
+['remote "dvc-remote"']
+    url = s3://dts-mlops-bucket/dvc_artefacts/
