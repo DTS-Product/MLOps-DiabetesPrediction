@@ -2,8 +2,6 @@
 This is a MLOps project to predict Diabetes (0 indicating negative & 1 indicating posotive) from a set of parameters like Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function & Age.<br />
 The final app is being deployed to Heroku. Data pipelining and versioning is done using open-source tool, DVC. The CICD pipeline is set up using Github Workflows Action.<br/>
 
-Find the deployed webapp in https://diabetes-prediction-app-mlops.herokuapp.com// <br />
-
 ### Dataset Context
 Dataset can be downloaded from https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
@@ -140,22 +138,7 @@ To run the flask application, run-
 python app.py
 ```
 
-### Heroku Setup
-- Create an account in Heroku, if not created
-- Create an app with a valid app name.
-- Find option to connect Heroku to Github for continuous deployment
-- Get the API token from settings in Heroku
-- Add Heroku app name and API token in github repository secrets
-
-### Create a Procfile for Heroku, so that it can figure out the entry point
-Add Gunicorn as WSGI HTTP server, which is used to forward requests from a web server to a backend Python web application or framework. From there, responses are then passed back to the webserver.
-
 ### Set up a CICD pipeline using github workflows action
 Refer to /.github/workflows/ci-cd.yaml
 <br />
 Push changes to github and navigate to github actions to see the build status
-
-### Deploy app in Heroku
-- Check if the build runs fine in github actions
-- Check the Webapp hosted on Heroku on the app url provided in Heroku-settings
-- https://diabetes-prediction-app-mlops.herokuapp.com/
